@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Wenmoux/dorajs-addons"
+        "url": "https://github.com/Wenmoux/dorajs-addons/tree/main/"
     },
     "version": "1.0.0",
     "license": "",
@@ -15,12 +15,23 @@
             "displayName": "ACFun",
             "uuid": "a70e8d42-4811-4b60-a9eb-7256ca7924d9",
             "description": "天下漫友是一家、认真你就输了",
-            "version": "1.2.7",
+            "version": "1.0.0",
             "author": {
                 "name": "Wen"
             },
             "url": "ACFun",
-            "icon": "ACFun/assets/icon.png"
+            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/ACFun/assets/icon.png"
+        },
+        {
+            "displayName": "dlive",
+            "uuid": "fa70b46b-fa85-4f7c-b487-8a7a34560a19",
+            "description": "一丢丢直播,没啥用",
+            "version": "1.0.0",
+            "author": {
+                "name": "Wen"
+            },
+            "url": "dlive",
+            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/dlive/assets/icon.png"
         }
     ]
 }

@@ -1,0 +1,31 @@
+{
+  "name": "dorajs-dlive",
+  "displayName": "dlive",
+  "version": "1.0.0",
+  "uuid": "fa70b46b-fa85-4f7c-b487-8a7a34560a19",
+  "description": "${description}",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "wuming"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.9.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {}
+}

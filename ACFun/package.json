@@ -1,0 +1,37 @@
+{
+  "name": "dorajs-acfun",
+  "displayName": "Acfun",
+  "version": "1.2.7",
+  "uuid": "a70e8d42-4811-4b60-a9eb-7256ca7924d9",
+  "description": "Acfun",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "chegege",
+    "fullName": "",
+    "email": "wenmoux@gmail.com"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "增加番剧\n增加账号登录,可关注取关up主并查看投稿动态以及up主所有视频",
+  "contributes": {},
+  "homepage": "https://m.acfun.cn/",
+  "engines": {
+    "dora": ">=1.8.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {},
+  "categories": [
+    "video"
+  ],
+  "donates": {
+    "alipay": "assets/alipay.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "displayName": "Wenmoux",
+    "description": "温某某",
+    "author": {
+        "name": "Wen",
+        "email": "wenmoux@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Wenmoux/dorajs-addons"
+    },
+    "version": "1.0.0",
+    "license": "",
+    "addons": [{
+            "displayName": "ACFun",
+            "uuid": "a70e8d42-4811-4b60-a9eb-7256ca7924d9",
+            "description": "天下漫友是一家、认真你就输了",
+            "version": "1.2.7",
+            "author": {
+                "name": "Wen"
+            },
+            "url": "ACFun",
+            "icon": "ACFun/assets/icon.png"
+        }
+    ]
+}

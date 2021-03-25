@@ -32,6 +32,20 @@
             },
             "url": "dlive",
             "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/dlive/assets/icon.png"
+        },{
+        
+        "displayName": "豆瓣影视",
+            "uuid": "9ce83b54-0216-4a57-b67f-38dcb7d1142f",
+            "description": "查看热门影视,搜索在线资源",
+            "version": "1.1.1",
+            "author": {
+                "name": "Wen"
+            },
+            "url": "douban",
+            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/douban/assets/icon.png"
+   
+        
+        
         }
     ]
 }

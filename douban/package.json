@@ -1,0 +1,39 @@
+{
+  "name": "dorajs-movie-douban",
+  "displayName": "豆瓣影视",
+  "version": "1.1.1",
+  "uuid": "9ce83b54-0216-4a57-b67f-38dcb7d1142f",
+  "description": "查看热门影视,搜索在线资源",
+  "icon": "assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "updates": "适配1.6.0",
+  "author": {
+    "name": "chegege",
+    "fullName": "",
+    "email": ""
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "engines": {
+    "Dora.js": ">=1.3.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "categories": [
+    "video"
+  ],
+  "donates": {},
+  "contributes": {
+    "search": "list"
+  }
+}

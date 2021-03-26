@@ -1,6 +1,6 @@
 {
     "displayName": "Wenmoux",
-    "description": "温某某",
+    "description": "瞎鸡儿写的扩展",
     "author": {
         "name": "Wen",
         "email": "wenmoux@gmail.com"
@@ -15,10 +15,8 @@
             "displayName": "ACFun",
             "uuid": "a70e8d42-4811-4b60-a9eb-7256ca7924d9",
             "description": "天下漫友是一家、认真你就输了",
-            "version": "1.0.0",
-            "author": {
-                "name": "Wen"
-            },
+            "version": "1.2.7",
+            "type": "git",
             "url": "ACFun",
             "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/ACFun/assets/icon.png"
         },
@@ -27,25 +25,36 @@
             "uuid": "fa70b46b-fa85-4f7c-b487-8a7a34560a19",
             "description": "一丢丢直播,没啥用",
             "version": "1.0.0",
-            "author": {
-                "name": "Wen"
-            },
+            "type": "git",
             "url": "dlive",
             "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/dlive/assets/icon.png"
-        },{
-        
-        "displayName": "豆瓣影视",
+        }, {
+
+            "displayName": "豆瓣影视",
             "uuid": "9ce83b54-0216-4a57-b67f-38dcb7d1142f",
             "description": "查看热门影视,搜索在线资源",
             "version": "1.1.1",
-            "author": {
-                "name": "Wen"
-            },
+            "type": "git",
             "url": "douban",
             "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/douban/assets/icon.png"
-   
-        
-        
+        },
+        {
+            "displayName": "猫耳FM",
+            "version": "1.5.0",
+            "uuid": "d7e40b44-6aa7-432a-90d2-b9229f6a282c",
+            "description": "喵~\n广播剧/直播/分类",
+            "icon": "https://s1.hdslb.com/bfs/maoer/assets/images/index/196.png",
+            "type": "npm",
+            "url": "dorajs-mao-erfm"
+        },
+        {
+            "displayName": "8X",
+            "version": "1.0.0",
+            "uuid": "f5d909dd-5e98-4db4-a60b-f175ae4e0cdd",
+            "description": "${description}",
+            "type": "git",
+            "url": "8X",
+            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/douban/assets/icon.png"                                                
         }
     ]
 }

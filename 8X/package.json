@@ -1,0 +1,33 @@
+{
+  "name": "dorajs-8x",
+  "displayName": "8x",
+  "version": "1.0.0",
+  "uuid": "f5d909dd-5e98-4db4-a60b-f175ae4e0cdd",
+  "description": "${description}",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "wming"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.8.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5"
+  }
+}

@@ -54,7 +54,7 @@
             "description": "${description}",
             "type": "git",
             "url": "8X",
-            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/douban/assets/icon.png"                                                
+            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/8X/assets/icon.png"                                                
         }
     ]
 }

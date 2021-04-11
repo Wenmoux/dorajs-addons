@@ -1,0 +1,31 @@
+{
+  "name": "dorajs-xiang-jiao-shi-pin",
+  "displayName": "香蕉视频",
+  "version": "1.0.0",
+  "uuid": "e845c995-8b23-4a22-8d1e-390f32f3efa0",
+  "description": "南无阿弥陀佛",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "lurenjia"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.8.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {}
+}

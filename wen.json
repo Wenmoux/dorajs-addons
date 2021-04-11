@@ -55,6 +55,24 @@
             "type": "git",
             "url": "8X",
             "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/8X/assets/icon.png"                                                
-        }
+        },  {
+            "displayName": "香蕉视频",
+            "version": "1.0.0",
+            "uuid": "e845c995-8b23-4a22-8d1e-390f32f3efa0",
+            "description": "${description}",
+            "type": "git",
+            "url": "xj",
+            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/xj/assets/icon.png"                                                
+        },  {
+            "displayName": "辣椒视频",
+            "version": "1.0.0",
+            "uuid": "357dcf58-21fb-4b22-bf32-8d43cb5b58d7",
+            "description": "${description}",
+            "type": "git",
+            "url": "lj",
+            "icon": "https://cdn.jsdelivr.net/gh/Wenmoux/dorajs-addons/lj/assets/icon.png"                                                
+        },
+        
+        
     ]
 }

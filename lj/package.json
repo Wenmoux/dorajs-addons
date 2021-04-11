@@ -1,0 +1,35 @@
+{
+  "name": "dorajs-la-jiao",
+  "displayName": "辣椒",
+  "version": "1.0.0",
+  "uuid": "357dcf58-21fb-4b22-bf32-8d43cb5b58d7",
+  "description": "辣椒视频",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "wuming",
+    "fullName": "",
+    "email": ""
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": "list1"
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.8.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {},
+  "categories": [],
+  "donates": {}
+}

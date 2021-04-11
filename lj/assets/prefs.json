@@ -1,0 +1,7 @@
+{
+  "cokemvcookie":{
+    "type":string,
+    "value":"",
+    "title":"token"
+  }
+}

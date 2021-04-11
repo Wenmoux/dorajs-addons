@@ -1,0 +1,12 @@
+{
+  "xjauth": {
+    "type": "string",
+    "default": "3962316530343165326263616130653361336335313335313538373264313235",
+    "title": "xxx_ali_auth"
+  },
+  "baseurl_xj": {
+    "type": "string",
+    "default": "https://7kp1t2vde8wt7p8tc0km.lagoapps.com",
+    "title": "香蕉 baseurl"
+  }
+}

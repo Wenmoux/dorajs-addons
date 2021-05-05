@@ -1,6 +1,6 @@
 module.exports = {
   type: 'bottomTab',
-  searchRoute: $route('xj/specialist'),
+  searchRoute: $route('specialist'),
   async fetch({ args }) {
       let items = [
       {
